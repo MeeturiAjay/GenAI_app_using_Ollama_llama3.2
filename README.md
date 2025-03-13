@@ -25,6 +25,20 @@ This project is a **lightweight yet powerful** AI-powered chatbot built with **L
 
 ---
 
+🎯 Why Use This Project?
+🔹 Runs locally – No API keys or cloud dependencies required.
+🔹 Minimal setup & easy to use – Run it in a few simple steps.
+🔹 Highly extendable – Easily integrate more data sources, APIs, or LLMs.
+
+📜 License
+This project is open-source under the MIT License.
+Feel free to modify and improve it! 🚀
+
+📌 Star this repo if you find it useful! ⭐
+
+
+
+
 ## 🚀 Installation & Setup  
 
 ### **1️⃣ Clone the Repository**  
