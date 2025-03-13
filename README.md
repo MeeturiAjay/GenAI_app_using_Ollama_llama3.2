@@ -25,7 +25,7 @@ This project is a **lightweight yet powerful** AI-powered chatbot built with **L
 
 ---
 
-🎯 Why Use This Project?
+🎯 Why Use This Project? 
 🔹 Runs locally – No API keys or cloud dependencies required.
 🔹 Minimal setup & easy to use – Run it in a few simple steps.
 🔹 Highly extendable – Easily integrate more data sources, APIs, or LLMs.
