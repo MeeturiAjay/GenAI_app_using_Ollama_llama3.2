@@ -33,9 +33,7 @@ This project is a **lightweight yet powerful** AI-powered chatbot built with **L
 
 ---
 
-## 📜 License  
 
-This project is open-source under the **MIT License**.  
 Feel free to modify and improve it! 🚀
 
 📌 **Star this repo if you find it useful!** ⭐
