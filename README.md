@@ -1,6 +1,6 @@
 # 🚀 Generative AI App using Ollama  
 
-Welcome to **Simple Generative AI App using Ollama**!  
+Welcome to **Generative AI App using Ollama**!  
 This project is a **lightweight yet powerful** AI-powered chatbot built with **LangChain**, **Streamlit**, and **Ollama**. It enhances AI responses, making interactions **more informative and accurate**.  
 
 ---
