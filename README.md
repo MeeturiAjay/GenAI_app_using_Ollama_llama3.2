@@ -7,41 +7,45 @@ This project is a **lightweight yet powerful** AI-powered chatbot built with **L
 
 ## ✨ Features  
 
-✔️ **Conversational AI** – Engage in human-like conversations with AI.  
-⚡ **Fast & Efficient** – Optimized for quick responses with minimal latency.  
-🎨 **Streamlit UI** – Clean and interactive user interface for a seamless experience.  
-🔒 **Local & Secure** – Runs on your machine without depending on external APIs.  
+- ✔️ **Conversational AI** – Engage in human-like conversations with AI.  
+- ⚡ **Fast & Efficient** – Optimized for quick responses with minimal latency.  
+- 🎨 **Streamlit UI** – Clean and interactive user interface for a seamless experience.  
+- 🔒 **Local & Secure** – Runs on your machine without depending on external APIs.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 | 🚀 **Technology**  | 🎯 **Purpose** |
-|-----------------|--------------|
-| 🐍 **Python**  | Core programming language |
-| 🌐 **Streamlit** | Web-based UI for chatbot |
-| 🧠 **LangChain** | Framework for AI models |
-| 🔥 **Ollama**  | Local LLM execution |
+|--------------------|----------------|
+| 🐍 **Python**       | Core programming language |
+| 🌐 **Streamlit**   | Web-based UI for chatbot |
+| 🧠 **LangChain**    | Framework for AI models |
+| 🔥 **Ollama**       | Local LLM execution |
 
 ---
 
-🎯 Why Use This Project? 
-🔹 Runs locally – No API keys or cloud dependencies required.
-🔹 Minimal setup & easy to use – Run it in a few simple steps.
-🔹 Highly extendable – Easily integrate more data sources, APIs, or LLMs.
+## 🎯 Why Use This Project?
 
-📜 License
-This project is open-source under the MIT License.
+- 🔹 **Runs locally** – No API keys or cloud dependencies required.
+- 🔹 **Minimal setup & easy to use** – Run it in a few simple steps.
+- 🔹 **Highly extendable** – Easily integrate more data sources, APIs, or LLMs.
+
+---
+
+## 📜 License  
+
+This project is open-source under the **MIT License**.  
 Feel free to modify and improve it! 🚀
 
-📌 Star this repo if you find it useful! ⭐
+📌 **Star this repo if you find it useful!** ⭐
 
-
-
+---
 
 ## 🚀 Installation & Setup  
 
 ### **1️⃣ Clone the Repository**  
+
 ```bash
 git clone https://github.com/MeeturiAjay/GenAI_app_using_Ollama_llama3.2.git
 cd GenAI_app_using_Ollama_llama3.2
